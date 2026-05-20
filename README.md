@@ -1,6 +1,6 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20there!%I'm%20wuseck,%20GLHF!&fontSize=55)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=24EFF7&width=435&lines=Never+trust+the+client.)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=waving&color=#100:7FFFD4,100:#00FFFF&height=300&section=header&text=Hi%20there!%I'm%20wuseck,%20GLHF!&fontSize=55)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=24EFF7&center=true&width=435&lines=Never+trust+the+client.)](https://git.io/typing-svg)
 <!--
 **gameplayev/gameplayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
