@@ -98,3 +98,23 @@
 </tr>
 
 </table>
+
+---
+
+# 🏆 Solved.ac
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=iloveunity)](https://solved.ac/profile/iloveunity)
+
+---
+
+# 📫 Contact
+
+<p>
+  <a href="mailto:gameplayevs@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/gameplayev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+</p>
