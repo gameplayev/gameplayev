@@ -106,15 +106,16 @@
 
 | Year | Award |
 |------|-------|
-| 2026 | 🇰🇷 **3rd IOAI Team Korea Representative** & **KOAI Summer School Graduate** |
-| 2026 | 🥇 **2026 Summer IT Conference** — **Track 2 Grand Prize** |
-| 2026 | 🥇 **Korea Olympiad in Artificial Intelligence (KOAI)** — **Gold Award** |
-| 2026 | 🥇 **2026 Summer IT Conference** — **Track 1 Gold Prize** |
-| 2026 | 🏆 **6th IT Competition** — **AI Division Grand Prize** |
-| 2024 | ⭐ **NYPC 2024** — **Special Award** |
-| 2026 | 🥈 **6th IT Competition** — **C Language Division Silver Prize** |
-| 2025 | 🥉 **2025 Winter IT Conference** — **Track 1 Bronze Prize** |
-| 2023 | 🥉 **3rd IT Competition** — **Algorithm Division Bronze Prize** |
+| 2026 | 🇰🇷 **Team Korea Representative**, **3rd International Olympiad in Artificial Intelligence (IOAI)** |
+| 2026 | 🎓 **Korean Olympiad in Artificial Intelligence (KOAI) Summer School** |
+| 2026 | 🥇 **Gold Award**, **Korean Olympiad in Artificial Intelligence (KOAI)** |
+| 2026 | 🏆 **Grand Prize**, Track 2, **2026 Summer Youth IT Conference** *(Digital Content Applications)* |
+| 2026 | 🥇 **Gold Prize**, Track 1, **2026 Summer Youth IT Conference** *(Big Data & Artificial Intelligence)* |
+| 2026 | 🏆 **Grand Prize**, AI Division, **6th Youth IT Competition** |
+| 2026 | 🥈 **Silver Prize**, C Programming Division, **6th Youth IT Competition** |
+| 2025 | 🥉 **Bronze Prize**, Track 1, **2025 Winter Youth IT Conference** |
+| 2023 | 🥉 **Bronze Prize**, Algorithm Division, **3rd Youth IT Competition** |
+| 2024 | ⭐ **Special Award**, **Nexon Youth Programming Challenge (NYPC)** |
 
 ---
 
