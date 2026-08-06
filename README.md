@@ -29,7 +29,7 @@
 </td>
 <td>
 
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -71,16 +71,16 @@
 <tr>
 <td>
 
-### 💻 Environments
+### 💻 Environment
 
 </td>
 <td>
 
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
 </td>
 </tr>
@@ -88,7 +88,7 @@
 <tr>
 <td>
 
-### 🧑🏻‍💻 Infra / DevOps
+### ☁️ Infra / DevOps
 
 </td>
 <td>
@@ -104,30 +104,34 @@
 
 # 🏆 Awards
 
-| Year | Award |
-|------|-------|
-| 2026 | 🇰🇷 **Team Korea Representative**, **3rd International Olympiad in Artificial Intelligence (IOAI)** |
-| 2026 | 🎓 **Korean Olympiad in Artificial Intelligence (KOAI) Summer School** |
-| 2026 | 🥇 **Gold Award**, **Korean Olympiad in Artificial Intelligence (KOAI)** |
-| 2026 | 🏆 **Grand Prize**, Track 2, **2026 Summer Youth IT Conference** *(Digital Content Applications)* |
-| 2026 | 🥇 **Gold Prize**, Track 1, **2026 Summer Youth IT Conference** *(Big Data & Artificial Intelligence)* |
-| 2026 | 🏆 **Grand Prize**, AI Division, **6th Youth IT Competition** |
-| 2026 | 🥈 **Silver Prize**, C Programming Division, **6th Youth IT Competition** |
-| 2025 | 🥉 **Bronze Prize**, Track 1, **2025 Winter Youth IT Conference** |
-| 2023 | 🥉 **Bronze Prize**, Algorithm Division, **3rd Youth IT Competition** |
-| 2024 | ⭐ **Special Award**, **Nexon Youth Programming Challenge (NYPC)** |
+| Award |
+|--------|
+| **International Olympiad in Artificial Intelligence (IOAI)** — 🇰🇷 Team Korea Representative (2026) |
+| **Korean Olympiad in Artificial Intelligence (KOAI) Summer School** — Graduate (2026) |
+| **Korean Olympiad in Artificial Intelligence (KOAI)** — 🥇 Gold Award (2026) |
+| **2026 Summer Youth IT Conference** *(Track 2 – Digital Content Applications)* — 🏆 Grand Prize |
+| **2026 Summer Youth IT Conference** *(Track 1 – Big Data & Artificial Intelligence)* — 🥇 Gold Prize |
+| **6th Youth IT Competition** *(AI Division)* — 🏆 Grand Prize (2026) |
+| **6th Youth IT Competition** *(C Programming Division)* — 🥈 Silver Prize (2026) |
+| **2025 Winter Youth IT Conference** *(Track 1)* — 🥉 Bronze Prize |
+| **3rd Youth IT Competition** *(Algorithm Division)* — 🥉 Bronze Prize (2023) |
+| **Nexon Youth Programming Challenge (NYPC)** — ⭐ Special Award (2024) |
 
 ---
 
 # 🏆 Solved.ac
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=iloveunity)](https://solved.ac/profile/iloveunity)
+<p align="center">
+  <a href="https://solved.ac/profile/iloveunity">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=iloveunity" alt="Solved.ac Profile"/>
+  </a>
+</p>
 
 ---
 
 # 📫 Contact
 
-<p>
+<p align="center">
   <a href="mailto:gameplayevs@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
