@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=100:7FFFD4,100:00FFFF&height=300&section=header&text=Hi%20there!%20I'm%20wuseck,%20GLHF!&fontSize=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=100:7FFFD4,100:00FFFF&height=300&section=header&text=Hi%20there!%20I'm%20wuseok,%20GLHF!&fontSize=55)
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -11,7 +11,7 @@
   </a>
 
   <img
-    src="https://komarev.com/ghpvc/?username=gameplayev&color=blue&style=flat-square"
+    src="https://komarev.com/ghpvc/?username=reisi09&color=blue&style=flat-square"
     alt="Visitors"
   />
 </p>
