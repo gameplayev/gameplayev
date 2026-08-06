@@ -32,6 +32,7 @@
 ![Next JS](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 </td>
@@ -98,6 +99,22 @@
 </tr>
 
 </table>
+
+---
+
+# 🏆 Awards
+
+| Year | Award |
+|------|-------|
+| 2026 | 🇰🇷 **3rd IOAI Team Korea Representative** & **KOAI Summer School Graduate** |
+| 2026 | 🥇 **2026 Summer IT Conference** — **Track 2 Grand Prize** |
+| 2026 | 🥇 **Korea Olympiad in Artificial Intelligence (KOAI)** — **Gold Award** |
+| 2026 | 🥇 **2026 Summer IT Conference** — **Track 1 Gold Prize** |
+| 2026 | 🏆 **6th IT Competition** — **AI Division Grand Prize** |
+| 2024 | ⭐ **NYPC 2024** — **Special Award** |
+| 2026 | 🥈 **6th IT Competition** — **C Language Division Silver Prize** |
+| 2025 | 🥉 **2025 Winter IT Conference** — **Track 1 Bronze Prize** |
+| 2023 | 🥉 **3rd IT Competition** — **Algorithm Division Bronze Prize** |
 
 ---
 
