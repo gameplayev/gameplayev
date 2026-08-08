@@ -106,7 +106,7 @@
 
 | Award |
 |--------|
-| **International Olympiad in Artificial Intelligence (IOAI)** — 🇰🇷 Team Korea Representative (2026) |
+| **3rd International Olympiad in Artificial Intelligence (IOAI)** — 🇰🇷 Team Korea Alternate Representative (2026) |
 | **Korean Olympiad in Artificial Intelligence (KOAI) Summer School** — Graduate (2026) |
 | **Korean Olympiad in Artificial Intelligence (KOAI)** — 🥇 Gold Award (2026) |
 | **2026 Summer Youth IT Conference** *(Track 2 – Digital Content Applications)* — 🏆 Grand Prize |
