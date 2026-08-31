@@ -111,7 +111,7 @@
 | **Korean Olympiad in Artificial Intelligence (KOAI)** — 🥇 Gold Award (2026) |
 | **2026 Summer Youth IT Conference** *(Track 1 – Big Data & Artificial Intelligence)* — 🥇 Gold Prize |
 | **6th Youth IT Competition** *(C Programming Division)* — 🥈 Silver Prize (2026) |
-| **2026 Engineering Industry Competition** *(High School Division – Design Idea Category)* — Encouragement Award |
+| **2026 Engineering Industry Competition** *(High School Division – Design Idea Category)* — 📜 Encouragement Award |
 | **2025 Winter Youth IT Conference** *(Track 1)* — 🥉 Bronze Prize |
 | **3rd Youth IT Competition** *(Algorithm Division)* — 🥉 Bronze Prize (2023) |
 | **Nexon Youth Programming Challenge (NYPC)** — ⭐ Special Award (2024) |
