@@ -3,16 +3,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=100:7FFFD4,100:00FFFF&height=300&section=header&text=Hi%20there!%20I%27m%20wuseok,%20GLHF!&fontSize=55)
 
 <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=reisi09&color=blue&style=flat-square"
-    alt="Visitors"
-  />
   <a href="https://git.io/typing-svg">
     <img
       src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=24EFF7&center=true&vCenter=true&width=435&lines=Never+trust+the+client."
       alt="Typing SVG"
     />
   </a>
+  <img
+    src="https://komarev.com/ghpvc/?username=reisi09&color=blue&style=flat-square"
+    alt="Visitors"
+  />
 </p>
 
 ---
