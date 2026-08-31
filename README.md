@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=100:7FFFD4,100:00FFFF&height=300&section=header&text=Hi%20there!%20I'm%20wuseok,%20GLHF!&fontSize=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=100:7FFFD4,100:00FFFF&height=300&section=header&text=Hi%20there!%20I%27m%20wuseok,%20GLHF!&fontSize=55)
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -9,7 +9,6 @@
       alt="Typing SVG"
     />
   </a>
-
   <img
     src="https://komarev.com/ghpvc/?username=reisi09&color=blue&style=flat-square"
     alt="Visitors"
@@ -47,7 +46,7 @@
 <td>
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -97,7 +96,6 @@
 
 </td>
 </tr>
-
 </table>
 
 ---
@@ -107,12 +105,13 @@
 | Award |
 |--------|
 | **3rd International Olympiad in Artificial Intelligence (IOAI)** — 🇰🇷 Team Korea Alternate Representative (2026) |
-| **Korean Olympiad in Artificial Intelligence (KOAI) Summer School** — Graduate (2026) |
+| **Korea Olympiad in Artificial Intelligence (KOAI) Summer School** — Graduate (2026) |
 | **6th Youth IT Competition** *(AI Division)* — 🏆 Grand Prize (2026) |
 | **2026 Summer Youth IT Conference** *(Track 2 – Digital Content Applications)* — 🏆 Grand Prize |
 | **Korean Olympiad in Artificial Intelligence (KOAI)** — 🥇 Gold Award (2026) |
 | **2026 Summer Youth IT Conference** *(Track 1 – Big Data & Artificial Intelligence)* — 🥇 Gold Prize |
 | **6th Youth IT Competition** *(C Programming Division)* — 🥈 Silver Prize (2026) |
+| **2026 Engineering Industry Competition** *(High School Division – Design Idea Category)* — Encouragement Award |
 | **2025 Winter Youth IT Conference** *(Track 1)* — 🥉 Bronze Prize |
 | **3rd Youth IT Competition** *(Algorithm Division)* — 🥉 Bronze Prize (2023) |
 | **Nexon Youth Programming Challenge (NYPC)** — ⭐ Special Award (2024) |
@@ -123,7 +122,10 @@
 
 <p align="center">
   <a href="https://solved.ac/profile/iloveunity">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=iloveunity" alt="Solved.ac Profile"/>
+    <img
+      src="http://mazassumnida.wtf/api/v2/generate_badge?boj=iloveunity"
+      alt="Solved.ac Profile"
+    />
   </a>
 </p>
 
@@ -133,9 +135,15 @@
 
 <p align="center">
   <a href="mailto:gameplayevs@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+    <img
+      src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"
+      alt="Gmail"
+    />
   </a>
   <a href="https://github.com/gameplayev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"
+      alt="GitHub"
+    />
   </a>
 </p>
